@@ -1,4 +1,4 @@
-var playlist = { 'Talking Heads': 'Slippery People' };
+var playlist = { 'Talking Heads': 'Slippery People', 'Elvis Costello': 'Watching the Detectives' };
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle;
