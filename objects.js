@@ -11,6 +11,6 @@ function removeFromPlaylist(playlist, artistName) {
 }
 
 //Test code
-updatePlayList(playlist, 'David Byrne', 'Some David Byrne Song');
+updatePlaylist(playlist, 'David Byrne', 'Some David Byrne Song');
 removeFromPlaylist(playlist, 'Talking Heads');
 console.log(playlist);
